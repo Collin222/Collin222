@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi, I'm Collin
 
-<!--
-**Collin222/Collin222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Web Developer who enjoys building cool and fun applications. I build complete web applications on both the frontend and backend, as well as Discord Bots.
 
-Here are some ideas to get you started:
+💻Full Stack Web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✏️JavaScript/TypeScript Programmer
+
+🖥️React Developer
+
+🦀Learning rust
+
+🤖Discord Bot Developer
+
+📆3+ years of programming experience
