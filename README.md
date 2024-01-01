@@ -1,17 +1,15 @@
 ## Hi, I'm Collin
 
-I'm a Full Stack Web Developer who enjoys building cool and fun applications. I build complete web applications on both the frontend and backend, as well as Discord Bots.
+💻 Full Stack Web Developer
 
-Visit my portfolio @ https://collin22.dev
+🌐 https://collin22.dev
 
-💻Full Stack Web Developer
+✏️ JavaScript/TypeScript
 
-✏️JavaScript/TypeScript Programmer
+🖥️ React
 
-🖥️React Developer
+🤖 Discord Bot Developer
 
-🦀Learning rust
+📆 3+ years of programming experience
 
-🤖Discord Bot Developer
-
-📆3+ years of programming experience
+Check out my company @ https://www.innovoai.app
