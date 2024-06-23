@@ -1,15 +1,7 @@
 ## Hi, I'm Collin
 
-💻 Full Stack Web Developer
+4+ years experience building full stack web applications
 
-🌐 https://collin22.dev
+⚒️ **Discolytics CEO** - We'll call you when your Discord bot goes down
 
-✏️ JavaScript/TypeScript
-
-🖥️ React
-
-🤖 Discord Bot Developer
-
-📆 3+ years of programming experience
-
-Check out my company @ https://www.innovoai.app
+- https://www.discolytics.com
